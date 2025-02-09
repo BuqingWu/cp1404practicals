@@ -5,6 +5,7 @@ MENU = "1.Get valid name, 2.print a line(of asterisks), 3.print random number, q
 
 def main():
     """Get users choice"""
+    name = " "
     choice = input("Enter your choice in menu(1/2/3/quit)")
     while choice != "quit":
         if choice == "1":
