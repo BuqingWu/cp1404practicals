@@ -1,4 +1,5 @@
 """A score menu"""
+
 import random
 
 MENU = "1.Get valid name, 2.print a line(of asterisks), 3.print random number, quit"

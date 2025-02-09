@@ -1,6 +1,5 @@
 """Module docstring"""
 
-
 # imports
 # CONSTANTS
 

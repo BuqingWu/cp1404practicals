@@ -8,6 +8,7 @@ F - Convert Fahrenheit to Celsius
 Q - Quit"""
 print(MENU)
 
+
 def main():
     """A menu to help users solve the conversion between Fahrenheit and Celsius."""
     choice = input(">>> ").upper()
