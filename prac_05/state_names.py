@@ -4,7 +4,6 @@ State names in a dictionary
 File needs reformatting
 """
 
-# TODO: Reformat this file so the dictionary code follows PEP 8 convention
 code_to_name = {"QLD": "Queensland", "NSW": "New South Wales", "NT": "Northern Territory", "WA": "Western Australia",
                 "ACT": "Australian Capital Territory", "VIC": "Victoria", "TAS": "Tasmania", "SA": "South Australia"}
 print(code_to_name)

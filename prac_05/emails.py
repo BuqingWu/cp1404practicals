@@ -21,4 +21,3 @@ def extract_name_from_email(email):
     return name
 
 main()
-

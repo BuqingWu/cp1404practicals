@@ -26,5 +26,4 @@ def count_words(text):
         print(f"{word:{max_word_length}} : {count}")
 
 text = input("Enter a string: ")
-
 main()
